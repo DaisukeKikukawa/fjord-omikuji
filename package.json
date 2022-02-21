@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/DaisukeKikukawa/fjord-omikuji/issues"
   },
-  "homepage": "https://github.com/DaisukeKikukawa/fjord-omikuji#readme"
+  "homepage": "https://github.com/DaisukeKikukawa/fjord-omikuji#readme",
+  "devDependencies": {
+    "chance": "^1.1.8",
+    "rewire": "^6.0.0",
+    "sinon": "^13.0.1"
+  }
 }
