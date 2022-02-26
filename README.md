@@ -1,2 +1,5 @@
 # fjord-omikuji
 This is self made npm
+
+hogehgoe
+fugagfuga
