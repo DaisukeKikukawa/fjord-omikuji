@@ -3,6 +3,9 @@
   "version": "1.1.1",
   "description": "This is a program that tells your fortune.",
   "main": "index.js",
+  "bin": {
+    "fjord-omikuji": "./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -23,9 +26,6 @@
     "chance": "^1.1.8",
     "rewire": "^6.0.0",
     "sinon": "^13.0.1"
-  },
-  "bin": {
-    "fjord-omikuji": "./index.js"
   },
   "dependencies": {
     "fjord-omikuji": "^1.1.1"
